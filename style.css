@@ -1,0 +1,27 @@
+* {
+    margin: 10px;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#h1b {
+    color: red;
+    text-align: center;
+    margin: 10px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    padding: 10 px;
+    height: 400px;
+    width: 500px;
+    
+}
+
+.parrafos {
+    color: red;
+    text-align: center;
+    margin: 20px auto;
+    font-size: 18px;
+}
